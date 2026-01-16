@@ -1,4 +1,4 @@
-package core_programming.methods.level2;
+package coreprogramming.methods.level2;
 import java.util.Scanner;
 public class BMI2dArray {
     public static void calculateBMI(double[][] data) {
