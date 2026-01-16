@@ -1,4 +1,4 @@
-package core_programming.builtInfunctions.problemstatements;
+package coreprogramming.builtInfunctions.problemstatements;
 import java.util.Scanner;
 import java.util.Random;
 public class NumberGuessingName {

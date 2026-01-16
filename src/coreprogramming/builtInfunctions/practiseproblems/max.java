@@ -1,7 +1,7 @@
-package core_programming.builtInfunctions.practiseproblems;
+package coreprogramming.builtInfunctions.practiseproblems;
 import java.time.LocalDate;
 import java.util.Scanner;
-public class max {
+public class Max {
         public static void main(String[] args) {
 
             Scanner sc = new Scanner(System.in);

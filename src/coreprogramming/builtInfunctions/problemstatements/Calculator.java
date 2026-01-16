@@ -1,6 +1,6 @@
-package core_programming.builtInfunctions.problemstatements;
+package coreprogramming.builtInfunctions.problemstatements;
 import java.util.Scanner;
-public class calc {
+public class Calculator {
     static double add(double a, double b) { return a + b; }
     static double sub(double a, double b) { return a - b; }
     static double mul(double a, double b) { return a * b; }

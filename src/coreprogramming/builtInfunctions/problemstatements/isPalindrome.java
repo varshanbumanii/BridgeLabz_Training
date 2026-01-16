@@ -1,6 +1,6 @@
-package core_programming.builtInfunctions.problemstatements;
+package coreprogramming.builtInfunctions.problemstatements;
 import java.util.Scanner;
-public class isPalindrome {
+public class IsPalindrome {
     static boolean isPalindrome(String s) {
         s = s.replaceAll("\\s+", "").toLowerCase();
         int i = 0, j = s.length() - 1;

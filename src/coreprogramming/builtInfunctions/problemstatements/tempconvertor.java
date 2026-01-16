@@ -1,6 +1,6 @@
-package core_programming.builtInfunctions.problemstatements;
+package coreprogramming.builtInfunctions.problemstatements;
 import java.util.Scanner;
-public class tempconvertor {
+public class TempConvertor {
     static double celsiusToFahrenheit(double c) {
         return (c * 9 / 5) + 32;
     }

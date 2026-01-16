@@ -1,6 +1,6 @@
-package core_programming.builtInfunctions.problemstatements;
+package coreprogramming.builtInfunctions.problemstatements;
 import java.util.Scanner;
-public class gcdandlcm {
+public class GCDandLCM {
     static int gcd(int a, int b) {
         return b == 0 ? a : gcd(b, a % b);
     }

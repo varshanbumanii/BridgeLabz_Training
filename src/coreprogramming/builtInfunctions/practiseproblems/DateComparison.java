@@ -1,7 +1,7 @@
-package core_programming.builtInfunctions.practiseproblems;
+package coreprogramming.builtInfunctions.practiseproblems;
 import java.util.Scanner;
 import java.time.LocalDate;
-public class datecomparisson {
+public class DateComparison {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

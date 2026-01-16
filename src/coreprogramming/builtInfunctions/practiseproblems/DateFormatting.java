@@ -1,4 +1,4 @@
-package core_programming.builtInfunctions.practiseproblems;
+package coreprogramming.builtInfunctions.practiseproblems;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 public class DateFormatting {

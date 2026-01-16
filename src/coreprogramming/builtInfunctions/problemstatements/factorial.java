@@ -1,6 +1,6 @@
-package core_programming.builtInfunctions.problemstatements;
+package coreprogramming.builtInfunctions.problemstatements;
 import java.util.Scanner;
-public class factorial {
+public class Factorial {
     static long factorial(int n) {
         if (n == 0) return 1;
         return n * factorial(n - 1);

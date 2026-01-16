@@ -1,6 +1,6 @@
-package core_programming.builtInfunctions.problemstatements;
+package coreprogramming.builtInfunctions.problemstatements;
 import java.util.Scanner;
-public class fibonacci {
+public class Fibonacci {
     static void generateFibonacci(int n) {
         int a = 0, b = 1;
         for (int i = 1; i <= n; i++) {

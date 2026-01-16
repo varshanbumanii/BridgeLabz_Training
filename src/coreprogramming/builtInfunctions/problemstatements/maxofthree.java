@@ -1,6 +1,6 @@
-package core_programming.builtInfunctions.problemstatements;
+package coreprogramming.builtInfunctions.problemstatements;
 import  java.util.Scanner;
-public class maxofthree {
+public class MaxofThree {
     static int max(int a, int b, int c) {
         return Math.max(a, Math.max(b, c));
     }
