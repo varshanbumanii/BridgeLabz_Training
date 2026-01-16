@@ -1,4 +1,4 @@
-package core_programming.javastring.level3;
+package coreprogramming.javastring.level3;
 import java.util.Scanner;
 public class Anagramcheck {
     public static boolean isAnagram(String a, String b) {

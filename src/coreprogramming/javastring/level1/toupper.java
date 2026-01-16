@@ -1,6 +1,6 @@
-package core_programming.javastring.level1;
+package coreprogramming.javastring.level1;
 import java.util.Scanner;
-public class toupper {
+public class ToUpper {
     public static String toUpper(String text) {
         String result = "";
 

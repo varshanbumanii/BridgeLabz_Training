@@ -1,6 +1,6 @@
-package core_programming.javastring.level1;
+package coreprogramming.javastring.level1;
 import java.util.Scanner;
-public class tolower {
+public class ToLower {
     public static String toLower(String text) {
         String result = "";
 

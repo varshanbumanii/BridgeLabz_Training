@@ -1,6 +1,6 @@
-package core_programming.javastring.level1;
+package coreprogramming.javastring.level1;
 import java.util.Scanner;
-public class charcompare {
+public class CharCompare {
     public static char[] getChars(String text) {
         char[] arr = new char[text.length()];
         for (int i = 0; i < text.length(); i++)

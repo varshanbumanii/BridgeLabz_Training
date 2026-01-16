@@ -1,6 +1,6 @@
-package core_programming.javastring.level3;
+package coreprogramming.javastring.level3;
 import java.util.Scanner;
-public class uniquecharac {
+public class UniqueCharac {
     public static int length(String text) {
         int i = 0;
         try {

@@ -1,6 +1,6 @@
-package core_programming.javastring.level2;
+package coreprogramming.javastring.level2;
 
-public class studentvoting {
+public class StudentVoting {
     public static int[] generateAges(int n) {
         int[] ages = new int[n];
         for (int i = 0; i < n; i++)

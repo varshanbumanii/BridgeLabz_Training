@@ -1,6 +1,6 @@
-package core_programming.javastring.level1;
+package coreprogramming.javastring.level1;
 import java.util.Scanner;
-public class substringcompare {
+public class SubStringCompare {
     public static String substringUsingCharAt(String text, int start, int end) {
         String result = "";
         for (int i = start; i < end; i++) {

@@ -1,6 +1,6 @@
-package core_programming.javastring.level1;
+package coreprogramming.javastring.level1;
 import java.util.Scanner;
-public class illegalargument {
+public class IllegalArgument {
     public static void generateException(String text) {
         System.out.println(text.substring(5, 2));
     }

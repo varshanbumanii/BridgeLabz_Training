@@ -1,6 +1,6 @@
-package core_programming.javastring.level1;
+package coreprogramming.javastring.level1;
 import java.util.Scanner;
-public class stringcompare {
+public class StringCompare {
     public static boolean compareUsingCharAt(String s1, String s2) {
         if (s1.length() != s2.length())
             return false;

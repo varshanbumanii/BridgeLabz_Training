@@ -1,6 +1,6 @@
-package core_programming.javastring.level3;
+package coreprogramming.javastring.level3;
 import java.util.Scanner;
-public class characfreqnested {
+public class Characfreqnested {
     public static String[] findCharacterFrequency(String text) {
 
         char[] chars = text.toCharArray();

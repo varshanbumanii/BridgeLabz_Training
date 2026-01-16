@@ -1,6 +1,6 @@
-package core_programming.javastring.level2;
+package coreprogramming.javastring.level2;
 
-public class cpmgrade {
+public class CpmGrade {
     public static int[][] generateScores(int n) {
         int[][] m = new int[n][3];
         for (int i = 0; i < n; i++)

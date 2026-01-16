@@ -1,6 +1,6 @@
-package core_programming.javastring.level3;
+package coreprogramming.javastring.level3;
 import java.util.Scanner;
-public class calendar {
+public class Calendar {
     public static boolean isLeapYear(int year) {
         return (year % 4 == 0 && year % 100 != 0) || (year % 400 == 0);
     }

@@ -1,6 +1,6 @@
-package core_programming.javastring.level3;
+package coreprogramming.javastring.level3;
 import java.util.Scanner;
-public class deckofcards {
+public class DeckofCards {
     static String[] suits = {"Hearts", "Diamonds", "Clubs", "Spades"};
     static String[] ranks = {"2","3","4","5","6","7","8","9","10","Jack","Queen","King","Ace"};
 

@@ -1,6 +1,6 @@
-package core_programming.javastring.level1;
+package coreprogramming.javastring.level1;
 import java.util.Scanner;
-public class arrayindex {
+public class ArrayIndex {
     public static void generateException(String[] names) {
         System.out.println(names[names.length]);
     }

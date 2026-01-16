@@ -1,6 +1,6 @@
-package core_programming.javastring.level1;
+package coreprogramming.javastring.level1;
 import java.util.Scanner;
-public class numberformat {
+public class NumberFormat {
     public static void generateException(String text) {
         int n = Integer.parseInt(text);
         System.out.println(n);

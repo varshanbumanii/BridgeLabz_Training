@@ -1,6 +1,6 @@
-package core_programming.javastring.level3;
+package coreprogramming.javastring.level3;
 import java.util.Scanner;
-public class charfreq {
+public class CharFreq {
     public static String[][] frequency(String text) {
         int[] freq = new int[256];
 

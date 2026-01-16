@@ -1,6 +1,6 @@
-package core_programming.javastring.level2;
+package coreprogramming.javastring.level2;
 import java.util.Scanner;
-public class rockpaperscissor {
+public class RockPaperScissor {
     static String[] choices = {"Rock", "Paper", "Scissors"};
 
     public static String computerChoice() {

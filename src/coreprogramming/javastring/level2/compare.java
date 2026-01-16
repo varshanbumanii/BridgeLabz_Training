@@ -1,6 +1,6 @@
-package core_programming.javastring.level2;
+package coreprogramming.javastring.level2;
 import java.util.Scanner;
-public class compare {
+public class Compare {
     public static int[] trimIndex(String text) {
         int start = 0, end = text.length() - 1;
 

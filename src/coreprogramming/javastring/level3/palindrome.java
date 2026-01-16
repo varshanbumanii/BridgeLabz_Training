@@ -1,6 +1,6 @@
-package core_programming.javastring.level3;
+package coreprogramming.javastring.level3;
 import java.util.Scanner;
-public class palindrome {
+public class Palindrome {
     public static boolean isPalindromeLoop(String text) {
         int s = 0, e = text.length() - 1;
         while (s < e)

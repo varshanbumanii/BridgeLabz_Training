@@ -1,6 +1,6 @@
-package core_programming.javastring.level1;
-import java.util.Scanner;
-public class nullpointer {
+package coreprogramming.javastring.level1;
+
+public class NullPointer {
     public static void generateException() {
         String text = null;
         System.out.println(text.length());

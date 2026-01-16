@@ -1,6 +1,6 @@
-package core_programming.javastring.level3;
+package coreprogramming.javastring.level3;
 import java.util.Scanner;
-public class charfrequnique {
+public class CharFreqUnique {
     public static int findLength(String text) {
         int count = 0;
         try {

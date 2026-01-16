@@ -1,6 +1,6 @@
-package core_programming.javastring.level2;
+package coreprogramming.javastring.level2;
 import java.util.Scanner;
-public class vowelsconsonants {
+public class VowelsConsonants {
     public static int[] countVC(String text) {
         int v = 0, c = 0;
 

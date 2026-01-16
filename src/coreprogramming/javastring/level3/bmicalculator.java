@@ -1,6 +1,6 @@
-package core_programming.javastring.level3;
+package coreprogramming.javastring.level3;
 import java.util.Scanner;
-public class bmicalculator {
+public class BMICalculator {
     public static String getStatus(double bmi) {
         if (bmi < 18.5) return "Underweight";
         else if (bmi < 25) return "Normal";

@@ -1,6 +1,6 @@
-package core_programming.javastring.level2;
+package coreprogramming.javastring.level2;
 import java.util.Scanner;
-public class splitcompare {
+public class SplitCompare {
     public static int findLength(String text) {
         int count = 0;
         try {
