@@ -1,8 +1,8 @@
-package core_programming.programmingelements.level1;
+package coreprogramming.programmingelements.level1;
 
 import java.util.Scanner;
 
-public class areaoftriangle {
+public class AreaofTriangle {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		double b = sc.nextDouble();

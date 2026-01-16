@@ -1,8 +1,8 @@
-package core_programming.programmingelements.level2;
+package coreprogramming.programmingelements.level2;
 
 import java.util.Scanner;
 
-public class reminandquo {
+public class ReminandQuo {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

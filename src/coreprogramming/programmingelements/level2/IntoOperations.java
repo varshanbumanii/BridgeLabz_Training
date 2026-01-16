@@ -1,8 +1,8 @@
-package core_programming.programmingelements.level2;
+package coreprogramming.programmingelements.level2;
 
 import java.util.Scanner;
 
-public class intoperations {
+public class IntoOperations {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

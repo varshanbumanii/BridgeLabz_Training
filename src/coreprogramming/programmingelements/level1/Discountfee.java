@@ -1,6 +1,6 @@
-package core_programming.programmingelements.level1;
+package coreprogramming.programmingelements.level1;
 
-public class discountfee {
+public class Discountfee {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

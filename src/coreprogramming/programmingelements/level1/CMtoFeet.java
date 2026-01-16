@@ -1,6 +1,6 @@
-package core_programming.programmingelements.level1;
+package coreprogramming.programmingelements.level1;
 import java.util.Scanner;
-public class cmtofeet {
+public class CMtoFeet {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		double h = sc.nextDouble();

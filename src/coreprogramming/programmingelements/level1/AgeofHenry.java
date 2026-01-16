@@ -1,6 +1,6 @@
-package core_programming.programmingelements.level1;
+package coreprogramming.programmingelements.level1;
 
-public class ageofHenry {
+public class AgeofHenry {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

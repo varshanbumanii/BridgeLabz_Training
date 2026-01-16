@@ -1,6 +1,6 @@
-package core_programming.programmingelements.level1;
+package coreprogramming.programmingelements.level1;
 
-public class profitpercent {
+public class ProfitPercent {
 	public static void main(String[] args) {
 		double profit = 191 - 129;
 		double percent =( profit/129 )*100;

@@ -1,6 +1,6 @@
-package core_programming.programmingelements.level1;
+package coreprogramming.programmingelements.level1;
 
-public class volume {
+public class Volume {
 	public static void main(String[] args) {
 		double rad=6378;
 		double areainkm = (4.0/3.0)*3.14*Math.pow(rad, 3);

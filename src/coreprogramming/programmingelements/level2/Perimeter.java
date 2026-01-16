@@ -1,6 +1,6 @@
-package core_programming.programmingelements.level2;
+package coreprogramming.programmingelements.level2;
 import java.util.Scanner;
-public class perimeter {
+public class Perimeter {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
