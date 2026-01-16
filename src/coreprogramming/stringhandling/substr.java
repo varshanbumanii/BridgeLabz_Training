@@ -1,7 +1,7 @@
-package core_programming.stringhandling;
+package coreprogramming.stringhandling;
 
 import java.util.Scanner;
-public class substr {
+public class SubStr {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         String str = sc.nextLine();

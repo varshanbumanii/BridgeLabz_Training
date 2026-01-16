@@ -1,6 +1,6 @@
 package core_programming.stringhandling;
 import java.util.Scanner;
-public class vowelsandconsonants {
+public class VowelsandConsonants {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String str = sc.nextLine();

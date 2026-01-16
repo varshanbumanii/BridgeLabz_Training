@@ -1,6 +1,6 @@
-package core_programming.stringhandling;
+package coreprogramming.stringhandling;
 import java.util.Scanner;
-public class stringreverse {
+public class StringReverse {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String name = sc.nextLine();

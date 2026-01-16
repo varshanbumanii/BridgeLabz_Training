@@ -1,8 +1,8 @@
-package core_programming.stringhandling;
+package coreprogramming.stringhandling;
 
 import java.util.Scanner;
 
-public class repeatedchar {
+public class RepeatedChar {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         String str = scan.nextLine();

@@ -1,8 +1,8 @@
-package core_programming.stringhandling;
+package coreprogramming.stringhandling;
 
 import java.util.Scanner;
 
-public class replacemethod {
+public class Replacemethod {
     public static void replacestrr(String sent, String str1,String str2){
         for(int i =0; i<sent.length();i++){
             if(sent.contains(str1)){
