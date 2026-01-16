@@ -7,9 +7,9 @@ public class ChocoCount {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
-		int noof = sc.nextInt();
-		int nochi = sc.nextInt();
-		System.out.println("No of chocolates per children : "+(noof/nochi)+" and Remaining chocolates : "+(noof%nochi));
+		int no_of = sc.nextInt();
+		int no_chi = sc.nextInt();
+		System.out.println("No of chocolates per children : "+(no_of/no_chi)+" and Remaining chocolates : "+(no_of%no_chi));
 		sc.close();
 
 	}
