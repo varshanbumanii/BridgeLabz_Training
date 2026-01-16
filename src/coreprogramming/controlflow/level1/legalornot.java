@@ -1,8 +1,8 @@
-package core_programming.controlflow.level1;
+package coreprogramming.controlflow.level1;
 
 import java.util.Scanner;
 
-public class legalornot {
+public class LegalorNot {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int age = sc.nextInt();

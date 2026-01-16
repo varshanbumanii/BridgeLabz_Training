@@ -1,8 +1,8 @@
-package core_programming.controlflow.level1;
+package coreprogramming.controlflow.level1;
 
 import java.util.Scanner;
 
-public class smallofthree {
+public class SmallofThree {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int a = sc.nextInt();

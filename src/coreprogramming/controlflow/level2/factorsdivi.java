@@ -1,6 +1,6 @@
-package core_programming.controlflow.level2;
+package coreprogramming.controlflow.level2;
 
-public class factorsdivi {
+public class FactorsDivi {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

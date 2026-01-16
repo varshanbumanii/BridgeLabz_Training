@@ -2,7 +2,7 @@ package core_programming.controlflow.level1;
 
 import java.util.Scanner;
 
-public class largestof3 {
+public class LargestofThree {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

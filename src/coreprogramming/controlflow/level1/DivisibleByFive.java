@@ -2,7 +2,7 @@ package core_programming.controlflow.level1;
 
 import java.util.Scanner;
 
-public class divisibleby5 {
+public class DivisibleByFive {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

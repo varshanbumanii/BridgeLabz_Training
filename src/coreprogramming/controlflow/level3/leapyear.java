@@ -1,8 +1,8 @@
-package core_programming.controlflow.level3;
+package coreprogramming.controlflow.level3;
 
 import java.util.Scanner;
 
-public class leapyear {
+public class LeapYear {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

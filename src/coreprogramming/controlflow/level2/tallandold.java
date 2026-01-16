@@ -1,8 +1,8 @@
-package core_programming.controlflow.level2;
+package coreprogramming.controlflow.level2;
 
 import java.util.Scanner;
 
-public class tallandold {
+public class TallandOld {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter Amar's Age and Height : ");

@@ -1,8 +1,8 @@
-package core_programming.controlflow.level1;
+package coreprogramming.controlflow.level1;
 
 import java.util.Scanner;
 
-public class sixtoninemul {
+public class Multiply {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

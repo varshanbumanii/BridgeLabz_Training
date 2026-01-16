@@ -1,8 +1,8 @@
-package core_programming.controlflow.level2;
+package coreprogramming.controlflow.level2;
 
 import java.util.Scanner;
 
-public class factorofnumber {
+public class FactorofNumber {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

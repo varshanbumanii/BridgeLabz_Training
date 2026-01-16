@@ -1,6 +1,6 @@
-package core_programming.controlflow.level3;
+package coreprogramming.controlflow.level3;
 import java.util.Scanner;
-public class harshadnumber {
+public class HarshadNumber {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

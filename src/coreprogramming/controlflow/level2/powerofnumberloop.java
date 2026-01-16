@@ -1,8 +1,8 @@
-package core_programming.controlflow.level2;
+package coreprogramming.controlflow.level2;
 
 import java.util.Scanner;
 
-public class powerofnumberloop {
+public class PowerofNumberLoop {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

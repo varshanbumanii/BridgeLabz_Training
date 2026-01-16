@@ -1,8 +1,8 @@
-package core_programming.controlflow.level1;
+package coreprogramming.controlflow.level1;
 
 import java.util.Scanner;
 
-public class whilezero {
+public class WhileZero {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		double total = 0.0;
