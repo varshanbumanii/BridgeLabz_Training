@@ -1,4 +1,4 @@
-package DataStructures.LinkedList.Doubly;
+package datastructures.linkedlist.doubly;
 
 import java.util.Scanner;
 

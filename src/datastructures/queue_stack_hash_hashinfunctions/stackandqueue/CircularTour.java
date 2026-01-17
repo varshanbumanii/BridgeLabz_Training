@@ -1,4 +1,4 @@
-package DataStructures.queue_stack_hash_hashinfunctions.stackandqueue;
+package datastructures.queue_stack_hash_hashinfunctions.stackandqueue;
 
 public class CircularTour {
 

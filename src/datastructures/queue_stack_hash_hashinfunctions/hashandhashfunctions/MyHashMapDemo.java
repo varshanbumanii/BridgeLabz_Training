@@ -1,4 +1,4 @@
-package DataStructures.Stack_Queue_HashMap_HashingFunctions.HashandHashingFunctions;
+package datastructures.Stack_Queue_HashMap_HashingFunctions.HashandHashingFunctions;
 
 import java.util.Scanner;
 
