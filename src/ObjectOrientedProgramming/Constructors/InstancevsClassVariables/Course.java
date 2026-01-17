@@ -1,4 +1,4 @@
-package objectorientedprogramming.Constructors.InstancevsClassVariables;
+package objectorientedprogramming.constructors.instancevsclassvariables;
 
 class Course {
 
