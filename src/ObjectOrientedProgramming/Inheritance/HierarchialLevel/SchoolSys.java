@@ -1,4 +1,4 @@
-package ObjectOrientedProgramming.Inheritance.HierarchialLevel;
+package objectorientedprogramming.Inheritance.HierarchialLevel;
 
 class Person {
     String name;

@@ -1,4 +1,4 @@
-package ObjectOrientedProgramming.Inheritance.MultiLevel;
+package objectorientedprogramming.Inheritance.MultiLevel;
 
 class Course {
     String courseName;

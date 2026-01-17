@@ -1,4 +1,4 @@
-package ObjectOrientedProgramming.ObjectModelling.Diagrams;
+package objectorientedprogramming.ObjectModelling.Diagrams;
 
 import java.util.ArrayList;
 

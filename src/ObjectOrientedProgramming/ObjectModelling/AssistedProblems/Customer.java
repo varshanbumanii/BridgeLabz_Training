@@ -1,4 +1,4 @@
-package ObjectOrientedProgramming.ObjectModelling.AssistedProblems;
+package objectorientedprogramming.ObjectModelling.AssistedProblems;
 
 class Customer {
     String name;

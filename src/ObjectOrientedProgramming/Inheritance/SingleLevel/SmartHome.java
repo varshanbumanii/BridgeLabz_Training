@@ -1,4 +1,4 @@
-package ObjectOrientedProgramming.Inheritance.SingleLevel;
+package objectorientedprogramming.Inheritance.SingleLevel;
 
 class Device {
     String deviceId;

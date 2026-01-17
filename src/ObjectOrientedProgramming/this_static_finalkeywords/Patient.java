@@ -1,4 +1,4 @@
-package ObjectOrientedProgramming.this_static_finalkeywords;
+package objectorientedprogramming.this_static_finalkeywords;
 
 public class Patient {
     static String hospitalName = "SRM Global Hospital";

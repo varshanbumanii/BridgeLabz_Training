@@ -1,4 +1,4 @@
-package ObjectOrientedProgramming.this_static_finalkeywords;
+package objectorientedprogramming.this_static_finalkeywords;
 
 public class Student {
     static String universityName = "SRM University";

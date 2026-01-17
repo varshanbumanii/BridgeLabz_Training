@@ -1,4 +1,4 @@
-package ObjectOrientedProgramming.ObjectModelling.SelfProblems;
+package objectorientedprogramming.ObjectModelling.SelfProblems;
 
 import java.util.ArrayList;
 

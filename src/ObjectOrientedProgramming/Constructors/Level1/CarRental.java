@@ -1,4 +1,4 @@
-package ObjectOrientedProgramming.Constructors.Level1;
+package objectorientedprogramming.Constructors.Level1;
 
 class CarRental {
 

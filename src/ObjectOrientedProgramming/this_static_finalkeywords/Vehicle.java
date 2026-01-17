@@ -1,4 +1,4 @@
-package ObjectOrientedProgramming.this_static_finalkeywords;
+package objectorientedprogramming.this_static_finalkeywords;
 import java.util.Scanner;
 public class Vehicle {
     static double registrationFee = 5500.0;

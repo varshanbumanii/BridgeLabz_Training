@@ -1,4 +1,4 @@
-package ObjectOrientedProgramming.Inheritance.AssistedProblems;
+package objectorientedprogramming.Inheritance.AssistedProblems;
 
 class Vehicle {
     int maxSpeed;

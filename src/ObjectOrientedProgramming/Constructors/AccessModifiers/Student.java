@@ -1,4 +1,4 @@
-package ObjectOrientedProgramming.Constructors.AccessModifiers;
+package objectorientedprogramming.Constructors.AccessModifiers;
 
 class Student {
 
