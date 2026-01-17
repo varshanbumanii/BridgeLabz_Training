@@ -1,4 +1,4 @@
-package objectorientedprogramming.ObjectModelling.SelfProblems;
+package objectorientedprogramming.objectmodelling.selfproblems;
 
 class Patient {
     String name;

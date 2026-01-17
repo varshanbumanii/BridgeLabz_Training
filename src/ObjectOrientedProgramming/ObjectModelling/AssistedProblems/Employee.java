@@ -1,4 +1,4 @@
-package objectorientedprogramming.ObjectModelling.AssistedProblems;
+package objectorientedprogramming.objectmodelling.assistedproblems;
 import java.util.ArrayList;
 
 class Employee {
