@@ -1,4 +1,4 @@
-package objectorientedprogramming.Inheritance.HierarchialLevel;
+package objectorientedprogramming.inheritance.hierarchiallevel;
 
 class BankAccount {
     int accountNumber;

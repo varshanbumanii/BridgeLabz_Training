@@ -1,4 +1,4 @@
-package objectorientedprogramming.Inheritance.HybridLevel;
+package objectorientedprogramming.inheritance.hybridlevel;
 
 interface Worker {
     void performDuties();

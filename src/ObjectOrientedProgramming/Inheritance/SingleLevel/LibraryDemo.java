@@ -1,4 +1,4 @@
-package objectorientedprogramming.Inheritance.SingleLevel;
+package objectorientedprogramming.inheritance.singlelevel;
 
 class Book {
     String title;

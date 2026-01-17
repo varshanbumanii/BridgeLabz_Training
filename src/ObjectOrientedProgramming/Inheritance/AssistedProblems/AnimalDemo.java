@@ -1,4 +1,4 @@
-package objectorientedprogramming.Inheritance.AssistedProblems;
+package objectorientedprogramming.inheritance.assistedproblems;
 
 class Animal {
     String name;
