@@ -38,3 +38,6 @@ Solved Encapsulation, Interface, and Abstract Class problems.
 
 • 14-Jan-2026 (Wednesday)
 Solved Linked List problems.
+
+• 16-Jan-2026 (Friday)
+Solved Stack, Queue, Hash, and Hashed function problems.
