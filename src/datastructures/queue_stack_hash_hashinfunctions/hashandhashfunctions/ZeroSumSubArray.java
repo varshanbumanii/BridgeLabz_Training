@@ -13,7 +13,7 @@ public class ZeroSumSubArray {
         map.put(0, new ArrayList<>());
         map.get(0).add(-1);
 
-        System.out.println("Zero Sum Subarrays:");
+        System.out.println("Zero Sum Subarrays :");
 
         for (int i = 0; i < arr.length; i++) {
 
