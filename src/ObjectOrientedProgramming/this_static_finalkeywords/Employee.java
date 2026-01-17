@@ -1,7 +1,7 @@
 package objectorientedprogramming.this_static_finalkeywords;
 
 public class Employee {
-    static String companyName = "Capgemini";
+    static String companyName = "Capgemini INC";
     static int totalEmployees = 0;
 
     String name;

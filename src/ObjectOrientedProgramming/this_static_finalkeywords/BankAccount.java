@@ -1,7 +1,7 @@
 package objectorientedprogramming.this_static_finalkeywords;
 
 public class BankAccount {
-    static String bankName = "BridgeLabz Bank";
+    static String bankName = "SBI Bank";
     static int totalAccounts = 0;
 
     String accountHolderName;

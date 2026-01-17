@@ -1,7 +1,7 @@
 package objectorientedprogramming.this_static_finalkeywords;
 
 public class Book {
-    static String libraryName = "BridgeLabz Library";
+    static String libraryName = "SRM Central Library";
 
     String title;
     String author;
