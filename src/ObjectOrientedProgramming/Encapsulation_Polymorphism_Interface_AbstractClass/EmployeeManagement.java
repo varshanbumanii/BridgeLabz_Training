@@ -1,4 +1,4 @@
-package objectorientedprogramming.Encapsulation_Polymorphism_Interface_AbstractClass;
+package objectorientedprogramming.encapsulation_polymorphism_interface_abstractclass;
 
 import java.util.ArrayList;
 
