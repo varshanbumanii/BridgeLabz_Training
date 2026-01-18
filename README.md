@@ -41,3 +41,7 @@ Solved Linked List problems.
 
 • 16-Jan-2026 (Friday)
 Solved Stack, Queue, Hash, and Hashed function problems.
+
+• 17-Jan-2026 (Saturday)
+Solved Sorting Algorithm problems.
+
