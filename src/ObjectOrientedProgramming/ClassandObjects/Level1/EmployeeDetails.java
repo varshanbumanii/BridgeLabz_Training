@@ -5,9 +5,9 @@ public class EmployeeDetails {
     int id;
     double salary;
     void display() {
-        System.out.println("Name: " + name);
-        System.out.println("ID: " + id);
-        System.out.println("Salary: " + salary);
+        System.out.println("Name : " + name);
+        System.out.println("ID : " + id);
+        System.out.println("Salary : " + salary);
     }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

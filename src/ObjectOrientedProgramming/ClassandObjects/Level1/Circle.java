@@ -7,8 +7,8 @@ public class Circle {
     void area(){
         area = (Math.PI * Math.pow(radius, 2));
         perimeter = 2*Math.PI;
-        System.out.println("The area of the circle is: " + area);
-        System.out.println("The perimeter of the circle is: " + perimeter);
+        System.out.println("The area of the circle is : " + area);
+        System.out.println("The perimeter of the circle is : " + perimeter);
     }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
