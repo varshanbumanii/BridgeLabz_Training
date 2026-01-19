@@ -13,7 +13,7 @@ class Product {
     }
 
     void displayProductDetails() {
-        System.out.println("Product Name: " + productName);
+        System.out.println("Product Name : " + productName);
         System.out.println("Price: " + price);
     }
 
