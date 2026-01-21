@@ -1,5 +1,4 @@
 package datastructures.linearandbinarysearch.binarysearch;
-
 import java.util.Scanner;
 
 public class PeakElementSearch {
