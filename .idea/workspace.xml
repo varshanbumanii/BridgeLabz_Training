@@ -1,4 +1,166 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PropertiesComponent">{}</component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="13f9d825-3014-4851-9700-0b92352db22e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/datastructures/algorithmsruntimeanalysisandbigonotation/FibonacciComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/algorithmsruntimeanalysisandbigonotation/FileReadingPerformance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/algorithmsruntimeanalysisandbigonotation/SearchComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/algorithmsruntimeanalysisandbigonotation/SearchPerformanceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/algorithmsruntimeanalysisandbigonotation/SortingPerformanceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/algorithmsruntimeanalysisandbigonotation/StringConcatPerformance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;varshanbumanii&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:varshanbumanii/BridgeLabz_Training.git&quot;,
+    &quot;accountId&quot;: &quot;fed7fefd-d98d-4fff-a47e-a123c1cac86b&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="38ZAX6DOPQT5FK1HC3vtCEuJOsc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.FibonacciComparison.executor": "Run",
+    "Application.FileReadingPerformance.executor": "Run",
+    "Application.RotationPointSearch.executor": "Run",
+    "Application.SearchComparison.executor": "Run",
+    "Application.SearchPerformanceTest.executor": "Run",
+    "Application.SortingPerformanceTest.executor": "Run",
+    "Application.StringConcatPerformance.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "feature/data-structures",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.SearchComparison">
+    <configuration name="FibonacciComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructures.algorithmsruntimeanalysisandbigonotation.FibonacciComparison" />
+      <module name="BridgeLabz_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructures.algorithmsruntimeanalysisandbigonotation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileReadingPerformance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructures.algorithmsruntimeanalysisandbigonotation.FileReadingPerformance" />
+      <module name="BridgeLabz_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructures.algorithmsruntimeanalysisandbigonotation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructures.algorithmsruntimeanalysisandbigonotation.SearchComparison" />
+      <module name="BridgeLabz_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructures.algorithmsruntimeanalysisandbigonotation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingPerformanceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructures.algorithmsruntimeanalysisandbigonotation.SortingPerformanceTest" />
+      <module name="BridgeLabz_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructures.algorithmsruntimeanalysisandbigonotation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringConcatPerformance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructures.algorithmsruntimeanalysisandbigonotation.StringConcatPerformance" />
+      <module name="BridgeLabz_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructures.algorithmsruntimeanalysisandbigonotation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SearchComparison" />
+        <item itemvalue="Application.FibonacciComparison" />
+        <item itemvalue="Application.FileReadingPerformance" />
+        <item itemvalue="Application.StringConcatPerformance" />
+        <item itemvalue="Application.SortingPerformanceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.28238.7" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13f9d825-3014-4851-9700-0b92352db22e" name="Changes" comment="" />
+      <created>1768996759273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768996759273</updated>
+    </task>
+    <servers />
+  </component>
 </project>
