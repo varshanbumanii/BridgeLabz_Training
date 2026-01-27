@@ -45,3 +45,14 @@ Solved Stack, Queue, Hash, and Hashed function problems.
 • 17-Jan-2026 (Saturday)
 Solved Sorting Algorithm problems.
 
+• 19-Jan-2026 (Monday)
+Solved Linear search problems.
+
+• 20-Jan-2026 (Tuesday)
+Solved Binary Search problems.
+
+• 21-Jan-2026 (Wednesday)
+Solved Algorithms runtime and Big O notation problems.
+
+• 27-Jan-2026 (Thursday)
+Solved Java Generics problems.
